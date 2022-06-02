@@ -5,6 +5,8 @@ Olá Pessoal! 👋
 
  💬 E-mail: karolaynr.faria@gmail.com
  😄 Pronouns: Ela/Dela
+ 
+ ##
 
 <div align="center">
   <a href="https://github.com/FRKarolayne">
